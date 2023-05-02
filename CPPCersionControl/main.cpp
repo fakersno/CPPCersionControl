@@ -1,5 +1,10 @@
 #include<iostream>
 
+
+void confilis()
+{
+
+}
 int main()
 {
 	int a;
